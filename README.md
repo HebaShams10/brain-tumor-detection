@@ -77,10 +77,10 @@ pituitary
 
 Dataset not included due to size limitations.
 
-📈 Model Performance
+## 📈 Model Performance
 
-Training Accuracy: 84.99%  
-Validation Accuracy: 74.58 %  
+### Training Accuracy: 84.99%  
+### Validation Accuracy: 74.58 %  
 
 The model demonstrates strong generalization on unseen MRI images.
 

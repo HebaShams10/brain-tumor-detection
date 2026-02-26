@@ -104,7 +104,7 @@ brain-tumor-detection/
 
 ├── README.md
 
-└── images/
+└── images/                                                              
     ├── home.png
     ├── prediction.png
     ├── probabilities.png

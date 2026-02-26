@@ -1,1 +1,98 @@
-# brain-tumor-detection
+🧠 Brain Tumor Classification using ResNet50
+📌 Project Overview
+
+This project is a Deep Learning model that classifies brain MRI images into four tumor categories using ResNet50 (Transfer Learning).
+
+The model predicts one of the following classes:
+
+🧬 Glioma
+
+🧠 Meningioma
+
+🚫 No Tumor
+
+🔵 Pituitary Tumor
+
+📸 Demo
+🏠 Home Page
+
+🔍 Prediction Result
+
+📊 Prediction Probabilities
+
+🧠 Model Architecture
+
+Transfer Learning using ResNet50
+
+Custom Fully Connected Layers
+
+Softmax activation for multi-class classification
+
+Image preprocessing & augmentation
+
+⚙️ Training Details
+
+Optimizer: Adam
+
+Loss: Categorical Crossentropy
+
+Output Layer: 4 neurons (Softmax)
+
+Evaluation Metric: Accuracy
+
+Model saved as: brain_tumor_resnet50.keras
+
+🛠 Tech Stack
+
+Python
+
+TensorFlow / Keras
+
+NumPy
+
+Matplotlib
+
+Streamlit
+
+📊 Dataset
+
+Brain MRI Dataset (Kaggle)
+
+Classes:
+
+glioma
+
+meningioma
+
+notumor
+
+pituitary
+
+Dataset not included due to size limitations.
+
+🔍 Prediction Example
+
+Input MRI Image → Prediction: Pituitary (96% confidence)
+
+🚀 How to Run
+
+Clone the repository
+
+Install dependencies
+
+pip install -r requirements.txt
+
+Run Streamlit app
+
+streamlit run app.py
+
+Or open the notebook:
+BrainTumerDetection.ipynb
+
+👩‍💻 Author
+
+Heba Shams
+AI & Backend Enthusiast 🤖✨
+Commit
+
+Push

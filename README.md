@@ -16,10 +16,14 @@ The model predicts one of the following classes:
 
 ## 📸 Demo
 ### 🏠 Home Page
+![Home](images/home.png)
 
 ### 🔍 Prediction Result
+![Prediction](images/prediction.png)
 
 ### 📊 Prediction Probabilities
+![Probabilities](images/probabilities.png)
+
 
 ## 🧠 Model Architecture
 

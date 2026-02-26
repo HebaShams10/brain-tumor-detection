@@ -82,12 +82,26 @@ Dataset not included due to size limitations.
 ### Training Accuracy: 84.99%  
 ### Validation Accuracy: 74.58 %  
 
-The model demonstrates strong generalization on unseen MRI images.
+#### The model demonstrates strong generalization on unseen MRI images.
+#### Model evaluated on separate validation dataset.
 
 ## 🔍 Prediction Example
 
 ### Input MRI Image → pituitary (Confidence: 93.01%)
 ![Prediction Example](images/probabilities.png)
+
+## 📂 Project Structure
+
+brain-tumor-detection/
+│
+├── app.py
+├── BrainTumerDetection.ipynb
+├── requirements.txt
+├── README.md
+└── images/
+    ├── home.png
+    ├── prediction.png
+    ├── probabilities.png
 
 ## 🚀 How to Run
 

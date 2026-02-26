@@ -2,7 +2,8 @@
 
 ## 📌 Project Overview
 
-This project is a Deep Learning model that classifies brain MRI images into four tumor categories using ResNet50 (Transfer Learning).
+This project is a Deep Learning web application that classifies brain MRI images into four tumor categories using Transfer Learning with ResNet50.  
+The model is deployed using Streamlit to provide real-time predictions with probability scores.
 
 The model predicts one of the following classes:
 
@@ -61,7 +62,8 @@ Streamlit
 
 ## 📊 Dataset
 
-Brain MRI Dataset (Kaggle)
+Brain MRI Dataset from Kaggle:  
+https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
 
 Classes:
 
@@ -74,6 +76,13 @@ notumor
 pituitary
 
 Dataset not included due to size limitations.
+
+📈 Model Performance
+
+Training Accuracy: 84.99%  
+Validation Accuracy: 74.58 %  
+
+The model demonstrates strong generalization on unseen MRI images.
 
 ## 🔍 Prediction Example
 

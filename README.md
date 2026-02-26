@@ -73,8 +73,8 @@ Dataset not included due to size limitations.
 
 ## 🔍 Prediction Example
 
-Input MRI Image → Prediction: notumor (Confidence: 95.96%)
-
+### Input MRI Image → pituitary (Confidence: 93.01%)
+![Prediction Example](images/prediction_example.png)
 
 ## 🚀 How to Run
 

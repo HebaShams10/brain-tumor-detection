@@ -78,7 +78,7 @@ Dataset not included due to size limitations.
 ## 🔍 Prediction Example
 
 ### Input MRI Image → pituitary (Confidence: 93.01%)
-![Prediction Example](images/prediction_example.png)
+![Prediction Example](images/prediction.png)
 
 ## 🚀 How to Run
 

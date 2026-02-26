@@ -93,6 +93,3 @@ BrainTumerDetection.ipynb
 
 Heba Shams
 AI & Backend Enthusiast 🤖✨
-Commit
-
-Push

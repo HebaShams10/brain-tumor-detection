@@ -1,6 +1,6 @@
 # 🧠 Brain Tumor Classification using ResNet50
 
-## 📌 Project Overview
+### 📌 Project Overview
 
 This project is a Deep Learning model that classifies brain MRI images into four tumor categories using ResNet50 (Transfer Learning).
 
@@ -78,7 +78,7 @@ Dataset not included due to size limitations.
 ## 🔍 Prediction Example
 
 ### Input MRI Image → pituitary (Confidence: 93.01%)
-![Prediction Example](images/prediction.png)
+![Prediction Example](images/probabilities.png)
 
 ## 🚀 How to Run
 

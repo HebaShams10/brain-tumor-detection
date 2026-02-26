@@ -93,11 +93,17 @@ Dataset not included due to size limitations.
 ## 📂 Project Structure
 
 brain-tumor-detection/
+
 │
+
 ├── app.py
+
 ├── BrainTumerDetection.ipynb
+
 ├── requirements.txt
+
 ├── README.md
+
 └── images/
     ├── home.png
     ├── prediction.png

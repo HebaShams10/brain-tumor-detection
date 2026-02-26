@@ -1,6 +1,6 @@
 # 🧠 Brain Tumor Classification using ResNet50
 
-📌 Project Overview
+## 📌 Project Overview
 
 This project is a Deep Learning model that classifies brain MRI images into four tumor categories using ResNet50 (Transfer Learning).
 
@@ -14,14 +14,14 @@ The model predicts one of the following classes:
 
 🔵 Pituitary Tumor
 
-📸 Demo
-🏠 Home Page
+## 📸 Demo
+### 🏠 Home Page
 
-🔍 Prediction Result
+### 🔍 Prediction Result
 
-📊 Prediction Probabilities
+### 📊 Prediction Probabilities
 
-🧠 Model Architecture
+## 🧠 Model Architecture
 
 Transfer Learning using ResNet50
 
@@ -31,7 +31,7 @@ Softmax activation for multi-class classification
 
 Image preprocessing & augmentation
 
-⚙️ Training Details
+## ⚙️ Training Details
 
 Optimizer: Adam
 
@@ -43,7 +43,7 @@ Evaluation Metric: Accuracy
 
 Model saved as: brain_tumor_resnet50.keras
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
 Python
 
@@ -55,7 +55,7 @@ Matplotlib
 
 Streamlit
 
-📊 Dataset
+## 📊 Dataset
 
 Brain MRI Dataset (Kaggle)
 
@@ -71,11 +71,12 @@ pituitary
 
 Dataset not included due to size limitations.
 
-🔍 Prediction Example
+## 🔍 Prediction Example
 
-Input MRI Image → Prediction: Pituitary (96% confidence)
+Input MRI Image → Prediction: notumor (Confidence: 95.96%)
 
-🚀 How to Run
+
+## 🚀 How to Run
 
 Clone the repository
 
@@ -90,7 +91,7 @@ streamlit run app.py
 Or open the notebook:
 BrainTumerDetection.ipynb
 
-👩‍💻 Author
+## 👩‍💻 Author
 
-Heba Shams
-AI & Backend Enthusiast 🤖✨
+### Heba Shams
+### AI & Backend Enthusiast 🤖✨

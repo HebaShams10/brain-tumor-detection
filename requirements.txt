@@ -1,6 +1,7 @@
-tensorflow
-keras
+streamlit==1.52.2
+tensorflow==2.19.0
 numpy
 matplotlib
-opencv-python
+opencv-python-headless
 scikit-learn
+pillow

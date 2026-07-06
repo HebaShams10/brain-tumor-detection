@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-DeepLearning-orange)
+![Keras](https://img.shields.io/badge/Keras-NeuralNetwork-red)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+
 # 🧠 Brain Tumor Classification using ResNet50
 
 ## 📌 Project Overview
